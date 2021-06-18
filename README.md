@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ecastrol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ,  mi correo es ecastrol@ibero.edu.co
+- 👀 I’m interested in learn about programming languages like Python and Php
+- 🌱 I’m currently learning Programming Fundamentals
+- 📫 How to reach me , email me ecastrol@ibero.edu.co
 
 <!---
 ecastrol/ecastrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
